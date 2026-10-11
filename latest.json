@@ -1,15 +1,15 @@
 {
-  "version": "1.9.1",
-  "page": "https://github.com/Fini240/video-grabber-releases/releases/tag/v1.9.1",
-  "notes": "Automatic updates (fixed update source).\n\nNew users: download video-grabber-1.9.1.zip, unzip, open START HERE.html.\n\nAlready using Video Grabber? Update by hand one last time: replace your folder with this ZIP, click \u21bb in chrome://extensions and run the helper setup again (settings \u2192 Install the helper). Then settings \u2192 Updates \u2192 \"Turn on automatic updates\" and load the folder it shows once with \"Load unpacked\". From then on Video Grabber updates itself.\n\nAlso included from 1.8: honest Spotify verification, readable error messages, download queue, \"Saved\" only after the file is written, renaming for all downloads.",
+  "version": "1.10.0",
+  "page": "https://github.com/Fini240/video-grabber-releases/releases/tag/v1.10.0",
+  "notes": "Firefox support (the signed Firefox file follows once Mozilla signing is set up), plus everything from 1.9: automatic updates.\n\nAutomatic updates on? This version installs itself.\nNot yet? Replace your folder with this ZIP, click \u21bb in chrome://extensions, then settings \u2192 Updates \u2192 \"Turn on automatic updates\" and load the folder it shows once with \"Load unpacked\". From then on Video Grabber updates itself.\n\nNew users: download video-grabber-1.10.0.zip, unzip, open START HERE.html.",
   "zip": {
-    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.9.1/video-grabber-1.9.1.zip",
-    "sha256": "5ff1633a27ea466da2277bd5d8cc3588c8b27efb02dbffa75f127def05b0432c"
+    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.10.0/video-grabber-1.10.0.zip",
+    "sha256": "df73ca8ef04c3ac9524dbc342c578c014d07065402621566a1df863c8a578fbe"
   },
   "helper": {
     "version": "1.9.1",
-    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.9.1/vg_helper.py",
+    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.10.0/vg_helper.py",
     "sha256": "d89f4f82a767306844bf8d3d83104c82bd620cab02e477aa482babbcafabd409"
   },
-  "signature": "TL5n8D82Trpl0hyug6C4sYMzxuAkTK2kB3pwjVSoShwHCq1+OP/frhfyNbapBZF8ItBYXxOrQjKSMF7AHEOpDOHEG1HXhhrb6T9t91pZcLTBzcBKMLHXoPVBMLruAUJpdYWDNDxxFjtzM/0dHed/cZ6LIg9JQgT3t6dmg2DBt9Hw5800vzorjPBNSN7+npMTm72HFDWqFdu+mrEh6vh2wlCHVYUW9JRLEb5lpNdg4rtNTDQCIE1G8/9/bej/K+Ny1Qy74uNt7nGhhLD4zq38wKwVRo39Gz0h4JT3ONAT4HZcUHTSx/u5o3FOfuZEnLNMz7kxUJ7PfBZ6fyHkgYt+Rg=="
+  "signature": "dtEk6jzH3oldylnxeLbC9BSwkw8yxutOX7HaD4GKrbv4VF94HrMu/aW5h3cb8n3l/zxlo87ywUJY3315PU8267GdMjRJcsS+XoXpT9hzRDaNh7EhGa93ao06qH5HHwbODhh83J3ROcJqgttuIh2y5KB4G4+gsJzTEf/QMYGHOecB8AujZuXaRzXjO/HxV8xJhPC1dnZyXA5Jqea5d9RZXvILR85GdVf83pC7lfmjGLdNiBe697VpScCNoFZYbIC8g0k04xdK0nbdsTnk6uHalO9wU9fl3EpPS8DlE5lGfvxRvrsTjrMd7onyVKUNkfG92j1EICzh+j6ThpkqzTzqmA=="
 }
