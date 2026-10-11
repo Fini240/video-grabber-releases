@@ -1,15 +1,15 @@
 {
-  "version": "1.9.0",
-  "page": "https://github.com/Fini240/video-grabber-releases/releases/tag/v1.9.0",
-  "notes": "Automatic updates.\n\nNew users: download video-grabber-1.9.0.zip, unzip, open START HERE.html.\n\nAlready using Video Grabber? Update by hand one last time: replace your folder with this ZIP, click \u21bb in chrome://extensions and run the helper setup again (settings \u2192 Install the helper). Then go to settings \u2192 Updates \u2192 \"Turn on automatic updates\" and load the folder it shows once with \"Load unpacked\". From then on Video Grabber updates itself.\n\nAlso in 1.8: honest Spotify verification (checked by sound or skipped), readable error messages, download queue, \"Saved\" only after the file is written, renaming for all downloads.",
+  "version": "1.9.1",
+  "page": "https://github.com/Fini240/video-grabber-releases/releases/tag/v1.9.1",
+  "notes": "Automatic updates (fixed update source).\n\nNew users: download video-grabber-1.9.1.zip, unzip, open START HERE.html.\n\nAlready using Video Grabber? Update by hand one last time: replace your folder with this ZIP, click \u21bb in chrome://extensions and run the helper setup again (settings \u2192 Install the helper). Then settings \u2192 Updates \u2192 \"Turn on automatic updates\" and load the folder it shows once with \"Load unpacked\". From then on Video Grabber updates itself.\n\nAlso included from 1.8: honest Spotify verification, readable error messages, download queue, \"Saved\" only after the file is written, renaming for all downloads.",
   "zip": {
-    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.9.0/video-grabber-1.9.0.zip",
-    "sha256": "c79c70ae760d0af34d513c2d04e208b374ae01888a3df8f207c3ae398dcd0ff9"
+    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.9.1/video-grabber-1.9.1.zip",
+    "sha256": "5ff1633a27ea466da2277bd5d8cc3588c8b27efb02dbffa75f127def05b0432c"
   },
   "helper": {
-    "version": "1.9.0",
-    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.9.0/vg_helper.py",
-    "sha256": "562df5e7e575415b120f63b133d1b4252450348ddb15b4cb01210ac95e8bf450"
+    "version": "1.9.1",
+    "url": "https://github.com/Fini240/video-grabber-releases/releases/download/v1.9.1/vg_helper.py",
+    "sha256": "d89f4f82a767306844bf8d3d83104c82bd620cab02e477aa482babbcafabd409"
   },
-  "signature": "D9btnwTfB3vR0gXAnkKRua3IkaIuznB/AmPIfXyZpQr6zJlBDyjL3SBci1M8GUmEtZMy30QQdlNiTMhzqeCKvBsIIc6QZonxWB06XHiO1AT3ew3JlbCCLFnbiSzmyncrhzBNUCBZU/j+KFDMR3B2SgMDRWBMYnoy83j2ps+/9yQqqejFWyte+DX42aXBGStrXT+T/u+93uAK9/c+5fqjyGz22Zp89ha8pAkeg82A2ZxzClAP+477Dp07HCaBrbz/A/2P+VJ9GmJo3S4s3xRTK7MXChNDxk89j4oEOURaaAsuEL+UoEjiLFFp0lxnjvspXaZ2j1m4xLgAu+4dZ5aIhg=="
+  "signature": "TL5n8D82Trpl0hyug6C4sYMzxuAkTK2kB3pwjVSoShwHCq1+OP/frhfyNbapBZF8ItBYXxOrQjKSMF7AHEOpDOHEG1HXhhrb6T9t91pZcLTBzcBKMLHXoPVBMLruAUJpdYWDNDxxFjtzM/0dHed/cZ6LIg9JQgT3t6dmg2DBt9Hw5800vzorjPBNSN7+npMTm72HFDWqFdu+mrEh6vh2wlCHVYUW9JRLEb5lpNdg4rtNTDQCIE1G8/9/bej/K+Ny1Qy74uNt7nGhhLD4zq38wKwVRo39Gz0h4JT3ONAT4HZcUHTSx/u5o3FOfuZEnLNMz7kxUJ7PfBZ6fyHkgYt+Rg=="
 }
